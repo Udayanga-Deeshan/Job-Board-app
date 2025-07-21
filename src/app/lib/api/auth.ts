@@ -1,4 +1,4 @@
-const API_BASE = 'https://687dc9ec918b64224332bcf4.mockapi.io/api';
+const API_BASE = 'https://687dc9ec918b64224332bcf4.mockapi.io/api/';
 
 export const registerUser = async (userData: {
   name: string;
